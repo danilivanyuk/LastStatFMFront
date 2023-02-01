@@ -37,5 +37,8 @@ module.exports = {
     'sort-imports': 'error',
     'import/order': 'off',
     'react/jsx-one-expression-per-line': 'off',
+    'no-underscore-dangle': 'off',
+    'import/prefer-default-export': 'off',
+    'class-methods-use-this': 'off',
   },
 };
